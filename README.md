@@ -18,7 +18,7 @@ public class About {
       .tools(Arrays.asList("Spring", "Kafka", "Rest", "Angular"))
       .hobbies(Arrays.asList("Cook", "Games", "Movies", "Animes", "TV Series"))
       .addictions(Arrays.asList("Coffee"))
-      //Just to watch
+      //Just to watch ¯\_(ツ)_/¯
       .sports(Arrays.asList("Soccer", "Basketball"))
       .soccerTeam("São Paulo FC")
       .nbaTeam("LA Lakers")
