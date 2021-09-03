@@ -1,10 +1,12 @@
-## Anderson Baratella Alves
+# Anderson Baratella Alves
 
-#### May the coffee be with you ☕
+### May the coffee be with you ☕
 
 > How do you prove that you exist...? Maybe we don't exist.
 >  
 > -- <cite>Ornitier, Vivi</cite>
+
+### > type ./About.java
 ```java
 public class About {
 
@@ -29,11 +31,11 @@ public class About {
 
 }
 ```
-
+<!--
 ### My Github Stats  
 
 ![Baratella's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbalves&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbalves&layout=compact&theme=radical)
-
+-->
