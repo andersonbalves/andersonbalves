@@ -26,7 +26,7 @@ public class About {
             .birthDate(LocalDate.of(1988, 9, 27))
             .email("baratella.anderson@gmail.com")
             .country("Brasil") // Yes, it's with an 'S', not a 'Z'.
-            .code(List.of("Java", "Python", "TypeScript", "JavaScript", "HTML", "CSS")) // Fluent in human languages: Portuguese and Sarcasm. A little in English.
+            .code(List.of("Java", "Python", "TypeScript", "JavaScript", "HTML", "CSS")) // Fluent in human languages: Portuguese and Sarcasm. A little of English.
             .tools(List.of("Spring", "Kafka", "REST", "Angular"))
             .hobbies(List.of("Cook", "Games", "Movies", "Animes", "TV Series")) // Beyond coding: pretending to be a chef, defeating final bosses, binge-watching series.
             .addictions(List.of("Coffee")) // Caffeine is not a habit, it's a lifestyle.
